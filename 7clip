@@ -1,0 +1,346 @@
+{
+  "pc": "modtruk.wahyuabadis",
+  "version_app": "1.0",
+  "link_new_app": "null",
+  "name_godev": "Star+Mod",
+  "interval_inter": 2,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter":  "ca-app-pub-3940256099942544/1033173712",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ],
+  "applovin": [
+    {
+      "banner": "",
+      "inter": "",
+      "mrec": ""
+    }
+  ],
+  "list_mod": [
+    {
+      "id": "1",
+      "tittle": "Wahyu siji",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": ""   
+    },
+	
+    {
+      "id": "2",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": ""      
+    },
+
+    {
+      "id": "3",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "4",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "5",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "6",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "7",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "8",
+      "tittle": "Wahyu Abadi v2",
+      "link_file": "https://archive.org/download/wahyu-abadi-v-2-by-afra-app_202108/Wahyu%20Abadi%20v2%20by%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_livery": "https://ia601502.us.archive.org/19/items/livery-wahyu-abadi-v-2-by-afra-app_202108/Livery%20Wahyu%20Abadi%20v2%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601401.us.archive.org/11/items/wa-v-22/wa%20v22.png"
+    },
+
+    {
+      "id": "9",
+      "tittle": "Wahyu Abadi Tanpa Bak",
+      "link_file": "https://archive.org/download/wahyu-abadi-tanpa-bak_202108/Wahyu%20Abadi%20Tanpa%20Bak.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "10",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "11",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "12",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "13",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "14",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "15",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "16",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "17",
+      "tittle": "test ful",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": ""
+    },
+
+    {
+      "id": "18",
+      "tittle": "test 18",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": ""      
+    }
+  ]
+}
